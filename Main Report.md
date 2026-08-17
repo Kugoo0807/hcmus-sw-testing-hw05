@@ -1,6 +1,9 @@
 # HW05 - Performance Testing Main Report
 **Context:** EShop system (Node.js backend at localhost:3000)
 
+- **Link Video Demo YouTube:** [Demo](https://youtu.be/KNNecFiiaIs)
+- **Link Github:** [Github](https://github.com/Kugoo0807/hcmus-sw-testing-hw05)
+
 ## Task 1: API Endpoint Selection and Scenario Design
 
 ### 1. Endpoint Groups

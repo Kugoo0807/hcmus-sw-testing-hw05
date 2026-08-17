@@ -24,4 +24,5 @@
   - Max Stable RPS: ~50-60 requests/second.
   - Breaking Point: > 520 threads (bắt đầu từ chối kết nối).
 - **Số lượng bug ghi nhận:** 1 Critical Bug (BUG-001: Connection refused).
-- **Link Video Demo YouTube:** [Link Video YouTube Demo](#) *(Placeholder)*
+- **Link Video Demo YouTube:** [Demo](https://youtu.be/KNNecFiiaIs)
+- **Link Github:** [Github](https://github.com/Kugoo0807/hcmus-sw-testing-hw05)
